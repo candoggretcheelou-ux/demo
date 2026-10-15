@@ -7,6 +7,5 @@ public class Main {
         int y = 8;
 
         System.out.println("Result: " + (x + y));
-        System.out.println("Test");
     }
 }
